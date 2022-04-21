@@ -2,7 +2,7 @@
 This repo is the official implementation for [3D Human Pose Estimation with Spatial and Temporal Transformers](https://arxiv.org/pdf/2103.10455.pdf). The paper is accepted to [ICCV 2021](http://iccv2021.thecvf.com/home). 
 
 [Video Demonstration](https://youtu.be/z8HWOdXjGR8)
-
+##I have implemented and reproduced the results of 3D POSEFORMER taking the roots of the original paper:3D Human Pose Estimation with Spatial and Temporal Transformers
 ## PoseFormer Architecture
 <p align="left"> <img src="./figure/PoseFormer.gif" width="75%"> </p>
 
